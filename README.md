@@ -2,7 +2,7 @@
 
 **Details Of Running this Project :**
 
-to run this project you need to install the folder and open systemepark.cbp in your editer and ru main.cpp
+to run this project you need to install the folder and open systemepark.cbp in your editer and run main.cpp
 
 **Elements needs to be installed :**
 
