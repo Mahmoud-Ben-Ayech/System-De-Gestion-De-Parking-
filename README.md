@@ -1,1 +1,9 @@
-# Systeme De Gestion De Parking
+# Parking Management System
+
+**Details Of Running this Project :**
+
+to run this project you need to install the folder and open systemepark.cbp in your editer and ru main.cpp
+
+**Elements needs to be installed :**
+
+you need to install c++ language and an editer to open the project 
