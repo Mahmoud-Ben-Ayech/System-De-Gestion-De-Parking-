@@ -6,4 +6,4 @@ to run this project you need to install the folder and open systemepark.cbp in y
 
 **Elements needs to be installed :**
 
-you need to install c++ language and an editer to open the project 
+you need to install c++ language and an IDE to open the project 
